@@ -9,6 +9,7 @@
 - 💻 팀 프로젝트 **LINX**에서 백엔드 개발 담당(과거)
   - 회원 관리(User Management), 이메일 인증(Email Verification) 도메인 소유
 - 🛠 Java / Spring Boot 기반으로 REST API 설계 및 구현
+- 🐍 Python으로 스크립트 작성 및 학습 활용
 - 🗄 JPA, MySQL을 활용한 데이터 계층 설계 경험
 - 📚 실무 프로젝트와 병행해 프로그래밍기능사 실기 자격증 취득 준비 중
 
@@ -19,6 +20,7 @@
 **Language & Framework**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 **Database / ORM**
@@ -37,7 +39,7 @@
 ### 📌 Projects
 
 **LINX**
-> 팀 프로젝트로 진행 중인 서비스. Spring Boot / JPA / MySQL 기반 백엔드 구현.
+> 팀 프로젝트로 진행했던 서비스. Spring Boot / JPA / MySQL 기반 백엔드 구현.
 > - 담당 영역: 회원 관리, 이메일 인증
 > - 사용 스택: Java, Spring Boot, JPA, MySQL, Git/GitHub 협업
 
